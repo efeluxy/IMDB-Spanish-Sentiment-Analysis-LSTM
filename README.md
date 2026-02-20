@@ -11,11 +11,11 @@ Key Objectives:
 
 ### -- Dataset Features --
 The dataset consists of 5 main columns:
-· Review Number: Unique identifier.
-· Review (English): Original text.
-· Review (Spanish): Translated text used for the model.
-· Sentiment (English): Original label.
-· Sentiment (Spanish): Target label for classification.
+    - Review Number: Unique identifier.
+    - Review (English): Original text.
+    - Review (Spanish): Translated text used for the model.
+    - Sentiment (English): Original label.
+    - Sentiment (Spanish): Target label for classification.
 
 ### -- Tech Stack --
 - Language: Python

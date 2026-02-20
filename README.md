@@ -4,7 +4,7 @@ This repository contains a complete Data Science project focused on Natural Lang
 ### -- Project Overview --
 The project implements an end-to-end pipeline, from Exploratory Data Analysis (EDA) to the deployment of a Deep Neural Network (DNN). It leverages a dataset of approximately 50,000 IMDb reviews, including both English and Spanish versions with their respective sentiment labels.
 
-Key Objectives:
+### -- Key Objectives: --
 - Perform an in-depth EDA to understand data distribution and structure.
 - Implement a robust NLP preprocessing pipeline for Spanish text.
 - Develop and train a Deep Learning model to automate sentiment classification.

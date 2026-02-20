@@ -19,11 +19,12 @@ The dataset consists of 5 main columns:
 
 ### -- Tech Stack --
 - Language: Python
-- Libraries: * Data Analysis: pandas, numpy
+- Libraries:
+    - Data Analysis: pandas, numpy
     - Visualization: matplotlib, seaborn
-· NLP: nltk, spacy, langdetect, emoji
-· Machine Learning: scikit-learn
-· Deep Learning: TensorFlow / Keras (Sequential API, Embedding, LSTM/Dense layers)
+    - NLP: nltk, spacy, langdetect, emoji
+    - Machine Learning: scikit-learn
+    - Deep Learning: TensorFlow / Keras (Sequential API, Embedding, LSTM/Dense layers)
 
 ### -- Methodology --
 1. Exploratory Data Analysis (EDA)

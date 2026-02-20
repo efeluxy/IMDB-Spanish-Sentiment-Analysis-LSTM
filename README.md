@@ -18,9 +18,9 @@ The dataset consists of 5 main columns:
 · Sentiment (Spanish): Target label for classification.
 
 ### -- Tech Stack --
-· Language: Python
-· Libraries: * Data Analysis: pandas, numpy
-· Visualization: matplotlib, seaborn
+- Language: Python
+- Libraries: * Data Analysis: pandas, numpy
+    - Visualization: matplotlib, seaborn
 · NLP: nltk, spacy, langdetect, emoji
 · Machine Learning: scikit-learn
 · Deep Learning: TensorFlow / Keras (Sequential API, Embedding, LSTM/Dense layers)
